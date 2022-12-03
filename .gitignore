@@ -1,0 +1,6 @@
+*.box
+*.rpm
+*.zip
+.vagrant
+*.war
+*.gz
